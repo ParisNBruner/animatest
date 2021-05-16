@@ -1,0 +1,15 @@
+:root {
+  --alabaster: #fafafa;
+  --black: #000000de;
+  --black-2: #00000099;
+  --dodger-blue: #2196f3;
+  --mercury: #e5e5e5;
+  --white: #ffffff;
+
+  --font-size-l: 20px;
+  --font-size-m: 14px;
+  --font-size-s: 12px;
+  --font-size-xl: 24px;
+
+  --font-family-roboto: "Roboto", Helvetica;
+}
